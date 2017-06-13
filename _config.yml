@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "http://sekkinsan.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -10,7 +10,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>(add witty line)</h1>
+     <h1>Quirky, </h1>
      <p>I'm a developer specializing in (add later)</p>
   header_text_feature_image:
   footer_text: >
