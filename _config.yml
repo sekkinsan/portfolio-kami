@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Quirky, </h1>
-     <p>I'm a developer specializing in (add later)</p>
+     <h1>Quirky </h1>
+     <p>I'm an aspiring full-stack web developer. </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
