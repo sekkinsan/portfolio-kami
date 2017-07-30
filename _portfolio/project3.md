@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 
-thumbnail-path:
-short-description: Under Construction
+title: rgbGame
+thumbnail-path: "img/rgbGame.png"
+short-description: Game to improve hexadecimal recognition of RGB colors
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/rgbGame.png)
 
 ## Explanation
 
