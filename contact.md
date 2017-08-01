@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 feature-img: "img/color.png"
 ---
-Under construction
+Feel free to contact me below!
 
 <form action="https://getsimpleform.com/messages?form_api_token=d538b467a80798afbe25793acd0b5e80" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
