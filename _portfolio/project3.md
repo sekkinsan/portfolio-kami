@@ -2,7 +2,7 @@
 layout: post
 title: rgbGame
 thumbnail-path: "img/rgbGame.png"
-short-description: Game to improve hexadecimal recognition of RGB colors
+short-description: Game to improve RGB color code recognition of RGB colors
 
 ---
 
@@ -11,7 +11,7 @@ short-description: Game to improve hexadecimal recognition of RGB colors
 
 ## Explanation
 
-Under construction
+rgbGame is a browser based game to help improve recognition of RGB colors in their color code form. It was created using HTML, CSS, and JavaScript. 
 
 ## Problem
 
